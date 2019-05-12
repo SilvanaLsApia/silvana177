@@ -1,0 +1,24 @@
+BODY{background-image:url("sunset.jpg");
+background-repeat:repeat-x;}
+#header {padding:20px;
+border:1px solid #000000;
+background-color:#f0f8ff;;
+text-align:center;}
+#footer {padding:10px;
+border:1px solid #000000;
+background-color:#f0f8ff;;
+text-align: center;}
+#isi {background-color: #fof8ff;
+widows: 85px; /*lebar elemen*/
+margin-bottom:10px;
+margin-left:100px;
+padding:18px;
+border:1px solid #000;
+margin-top:10px;}
+#navigasi {float:left;
+width:6%;
+padding:7px;
+border:1px solid #000;
+background:yellow;
+margin-top:10px;
+margin-bottom:20px;}
